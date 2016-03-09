@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">GoverBook</string>
+    <string name="about_title">О программе</string>
+    <string name="fave_title">Избранное</string>
+    <string name="how_update">Изменить контакт</string>
+    <string name="workers_title">Сотрудники</string>
+    <string name="org_title">Организации</string>
+    <string name="update_title">Обновить</string>
+    <string name="settings_title">Настройки</string>
+    <string name="expand_title">Развернуть</string>
+    <string name="search_title">Поиск</string>
+    <string name="default_city_id">35</string>
+    <string name="default_city_name">г. Якутск</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_general">Общие</string>
+    <string name="pref_title_always_expand">Раскрывать</string>
+    <string name="pref_always_expand">Всегда раскрывать контакты</string>
+    <string name="pref_title_your_city">Ваш район</string>
+
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+
+
+    <string name="title_activity_about">О программе</string>
+    <string name="reglament">"Для внесения сведений или изменения данных опубликованных на сайте\n"
+     "http://www.rcitsakha.ru/\n"
+     "Вам необходимо позвонить по телефону\n"
+     "8(4112)398-000"
+    </string>
+
+    <string name="large_text">
+        Данная программа выпущена для упрощения поиска телефоных номеров органов государственной власти Республики Саха (Якутия) размещенных на сайте http://www.rcitsakha.ru Данная версия приложения находится в стадии тестирования. Все ошибки, замечания и ваши предложения вы можете отправить на электронный адрес: informixykt@gmail.com или оставить комментарий на странице приложения в playmarket.
+    </string>
+
+    <string name="last_title">Недавние</string>
+    <string name="title_activity_howtoupdate">Изменение контакта</string>
+    <string name="APP_PREFERENCES">goverbook</string>
+    <string name="SELECTED_AREA">SELECTED_AREA</string>
+    <string name="version">ver. 1.0</string>
+    <string name="email">informixykt@gmail.com</string>
+
+    <string-array name="city_array">
+        <item>г. Якутск</item>
+        <item>г. Москва</item>
+        <item>г. Санкт-Петербург</item>
+        <item>г. Хабаровск</item>
+        <item>г. Благовещенск</item>
+        <item>Абыйский улус</item>
+        <item>г. Благовещенск</item>
+        <item>Алданский улус</item>
+        <item>Аллайховский улус</item>
+        <item>Амгинский улус</item>
+        <item>Анабарский улус</item>
+        <item>Булунский улус</item>
+        <item>Верхневилюйский улус</item>
+        <item>Верхнеколымский улус</item>
+        <item>Верхоянский улус</item>
+        <item>Нерюнгринский улус</item>
+        <item>Вилюйский улус</item>
+        <item>Горный улус</item>
+        <item>Жиганский улус</item>
+        <item>Кобяйский улус</item>
+        <item>Ленский улус</item>
+        <item>Мегино-Кангаласский улус</item>
+        <item>Мирнинский улус</item>
+        <item>Намский улус</item>
+        <item>Нижнеколымский улус</item>
+        <item>Нюрбинский улус</item>
+        <item>Оймяконский улус</item>
+        <item>Олекминский улус</item>
+        <item>Оленекский улус</item>
+        <item>Среднеколымский улус</item>
+        <item>Сунтарский улус</item>
+        <item>Таттинский улус</item>
+        <item>Томпонский улус</item>
+        <item>Усть-Алданский улус</item>
+        <item>Усть-Майский улус</item>
+        <item>Усть-Янский улус</item>
+        <item>Хангаласский улус</item>
+        <item>Чурапчинский улус</item>
+        <item>Эвено-Бытантайский улус</item>
+    </string-array>
+
+
+</resources>

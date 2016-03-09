@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="@string/last_title"
+            android:id="@+id/nav_last"
+            android:orderInCategory="1"
+            android:icon="@android:drawable/ic_menu_compass"/>
+
+        <item
+            android:title="@string/how_update"
+            android:id="@+id/nav_how_update"
+            android:orderInCategory="2"
+            android:icon="@android:drawable/ic_menu_edit"/>
+        <item
+            android:title="@string/update_title"
+            android:id="@+id/nav_update"
+            android:orderInCategory="3"
+            android:icon="@android:drawable/ic_menu_rotate"/>
+
+        <item
+            android:title="@string/settings_title"
+            android:id="@+id/nav_settings"
+            android:orderInCategory="4"
+            android:icon="@android:drawable/ic_menu_preferences"/>
+        <item
+            android:title="@string/about_title"
+            android:id="@+id/nav_about"
+            android:orderInCategory="5"
+            android:icon="@android:drawable/ic_menu_info_details"/>
+
+    </group>
+
+</menu>

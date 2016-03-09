@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="always_expand"
+        android:summary="@string/pref_always_expand"
+        android:title="@string/pref_title_always_expand" />
+
+    <ListPreference
+        android:title="@string/pref_title_your_city"
+        android:summary="Выберите район по умолчанию"
+        android:key="@string/SELECTED_AREA"
+        android:defaultValue="@string/default_city_name"
+        android:entries="@array/city_array"
+        android:entryValues="@array/city_array" />
+
+</PreferenceScreen>
